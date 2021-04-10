@@ -1,0 +1,57 @@
+/* navigation styling  */
+#topNav {
+    font-size: 18px;
+}
+
+/* about section styling  */
+.about{
+    display: flex;
+}
+.profile img{
+    height:50vh;
+    align-items: flex-end;
+    align-content: flex-end;
+    justify-content: right;
+}
+.text1{
+    font-size: 28px;
+}
+.text2{
+    font-size: 52px;
+}
+.text3{
+    font-size: 28px;
+}
+/* skill section  */
+.skillhead {
+    text-align: center;
+}
+.card-link{
+    color: black;
+    font-size: 16px;
+}
+.contacthead{
+        text-align: center;
+    }
+.abouthead{
+    text-align: center;
+}
+
+.col-50 {
+    -ms-flex: 50%; /* IE10 */
+    flex: 50%;
+  }
+  .col-50 {
+  padding: 0 16px;
+}
+input[type=text] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }
